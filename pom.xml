@@ -9,7 +9,7 @@
 	<parent>
 		<groupId>net.bolbat</groupId>
 		<artifactId>bb-parent</artifactId>
-		<version>15</version>
+		<version>16-SNAPSHOT</version>
 	</parent>
 
 	<properties>
@@ -99,10 +99,9 @@
 	</dependencyManagement>
 
 	<scm>
-		<connection>scm:git:ssh://git@bitbucket.infra.bolbat.net:9074/BBDEPSBOMS/bb-commons-bom.git</connection>
-		<developerConnection>scm:git:ssh://git@bitbucket.infra.bolbat.net:9074/BBDEPSBOMS/bb-commons-bom.git</developerConnection>
-		<url>http://bitbucket.infra.bolbat.net/scm/BBDEPSBOMS/bb-commons-bom.git</url>
-		<tag>HEAD</tag>
+		<connection>scm:git:ssh://git@code.solutionary.tech:9074/bb/bb-bom-commons.git</connection>
+		<developerConnection>scm:git:ssh://git@code.solutionary.tech:9074/bb/bb-bom-commons.git</developerConnection>
+		<url>https://code.solutionary.tech/projects/BB/repos/bb-bom-commons/</url>
 	</scm>
 
 </project>
