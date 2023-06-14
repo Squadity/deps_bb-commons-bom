@@ -28,7 +28,7 @@
 		<commons-dbcp2.version>2.6.0</commons-dbcp2.version>
 
 		<!-- Google dependencies -->
-		<guava.version>28.0-jre</guava.version>
+		<guava.version>32.0.0-jre</guava.version>
 	</properties>
 
 	<dependencyManagement>
